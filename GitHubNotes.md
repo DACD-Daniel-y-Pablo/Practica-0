@@ -109,4 +109,4 @@ node_modules/
 ```
 
 ---
-Estos comandos y prácticas te ayudarán a gestionar proyectos de programación de manera eficiente con Git.
+Estos comandos y prácticas te ayudarán a gestionar proyectos de programación de manera eficiente con Git.git 
